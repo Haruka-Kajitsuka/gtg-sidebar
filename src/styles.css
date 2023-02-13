@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Sidebar {
+  height: 100%;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ color: #1251A6;
+ 
+ 
+ 
+}
+
+.sidebarCat{
+  padding-top: 50px;
+ 
+ }
+
+.sideTop{
+  padding-top: 10%;
+  
+}
+
+.sideuserinfo{
+
+  background-color: #121212;
+  height: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+  
+}
